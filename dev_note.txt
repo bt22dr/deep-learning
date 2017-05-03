@@ -1,3 +1,5 @@
+$ git remote add --track master upstream https://github.com/udacity/deep-learning.git
+위 명령을 실행하여 오리지널 프로젝트의 저장소를 등록
 
 $ git remote -v 
 위 명령을 실행하면 추가된 remote 정보를 볼 수 있다. 
